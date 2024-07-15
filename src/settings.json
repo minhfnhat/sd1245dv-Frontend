@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform your workflow with our innovative solutions designed to fuel your success.",
+        "title": "Unleash Your Productivity"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your workflow with our innovative solutions designed to fuel your success.",
+        "title": "Unleash Your Productivity"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform your workflow with our innovative solutions designed to fuel your success.",
+        "title": "Unleash Your Productivity"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform your workflow with our innovative solutions designed to fuel your success.",
+        "title": "Unleash Your Productivity"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your workflow with our innovative solutions designed to fuel your success.",
+        "title": "Unleash Your Productivity"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform your workflow with our innovative solutions designed to fuel your success.",
+        "title": "Unleash Your Productivity"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform your workflow with our innovative solutions designed to fuel your success.",
+        "title": "Unleash Your Productivity"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your workflow with our innovative solutions designed to fuel your success.",
+        "title": "Unleash Your Productivity"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash Your Productivity",
+  "subtitle": "Transform your workflow with our innovative solutions designed to fuel your success."
+}
